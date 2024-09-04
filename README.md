@@ -15,3 +15,6 @@ Interesses:
 -Artesanato
 
 ![](https://media.tenor.com/PBBmtN5_DFwAAAAM/harry-potter.gif)
+
+Projeto Aluraflix 
+Projrto Fluxograma
